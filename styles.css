@@ -1,0 +1,59 @@
+
+:root {
+    --text-color: #3cc6d0;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-image: linear-gradient(black, darkblue);
+    font-family: 'Dosis', sans-serif;
+  }
+  
+  h1 {
+    margin: 30px;
+    text-shadow: 3px 0 #232931;
+    font-size: 2rem;
+    font-weight: 800;
+    color: #f72585;
+  }
+  
+  h2, h3, h4, label {
+    margin: 30px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-color);
+  }
+  
+  p {
+    color: var(--text-color);
+  }
+  
+  img {
+    width: 80%;
+    background-color: #48cae4;
+    border-radius: 30%;
+    mix-blend-mode: hard-light;
+  }
+  
+  
+  .myBtn {
+    margin: 30px;
+    font-family: 'Dosis', sans-serif;
+  }
+  
+  .balancePanel {
+    font-family: 'Dosis', sans-serif;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: var(--text-color);
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+  }
+  
